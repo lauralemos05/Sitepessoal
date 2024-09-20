@@ -2,6 +2,7 @@
 
 Intruções para rodar meu site:
 
+npm install 
 cd meu-app 
 npm start 
 
